@@ -1,0 +1,13 @@
+django
+psycopg2-binary
+gunicorn
+redis
+django-redis
+pymongo
+celery
+flower
+django-ratelimit
+python-dotenv
+django-ninja
+PyJWT
+redis
