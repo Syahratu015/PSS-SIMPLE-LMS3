@@ -91,5 +91,5 @@ API dapat diuji menggunakan Postman dengan langkah berikut:
 ## Screenshot Swagger
 
 ```markdown
-![Swagger](screenshoot/NINJA_API.png)
+![Swagger](screenshoot/swagger.png)
 ```
